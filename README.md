@@ -9,13 +9,13 @@ By Dodo - :)
 -------------------------------------------------
 
 
-Lösung: Informatik sichert Zukunft – mehr denn je
+**Lösung**: Informatik sichert Zukunft – mehr denn je
 
-Verschlüsselung: Cäsar
+**Verschlüsselung**: Cäsar
 
-Verschiebung: 19
+**Verschiebung**: 19
 
-Liebe Grüße an Herrn Borrmann :)
+**Liebe Grüße an Herrn Borrmann :)**
 
 
 -------------------------------------------------
