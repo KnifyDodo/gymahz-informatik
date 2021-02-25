@@ -15,7 +15,7 @@ By Dodo シ
 
 **Verschiebung**: 19
 
-**Liebe Grüße an Herrn Borrmann und Herrn Fischer :)**
+**Liebe Grüße an Herrn Borrmann und Herrn Fischer シ**
 
 
 -------------------------------------------------
